@@ -1,4 +1,6 @@
-Check out my youtube video: https://youtu.be/B26jPX9b1Yo
+Check out my youtube videos on this topic: 
+- https://youtu.be/B26jPX9b1Yo
+- https://youtu.be/9KjNRA1rg0Y?si=VYu00zZ4jRWgSpuh
 
 🐛 Oscillating 8-Servo Robot with Obstacle Detection (ESP32 + PCA9685)
 
