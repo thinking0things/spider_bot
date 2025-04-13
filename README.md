@@ -1,3 +1,5 @@
+Check out my youtube video: https://youtu.be/B26jPX9b1Yo
+
 🐛 Oscillating 8-Servo Robot with Obstacle Detection (ESP32 + PCA9685)
 
 This Arduino-based project controls 8 servo motors using the PCA9685 driver to create oscillating movements — like walking or crawling — with obstacle avoidance via an ultrasonic sensor. When an object is detected nearby, the walking pattern changes direction dynamically.
